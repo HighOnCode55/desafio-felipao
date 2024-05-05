@@ -43,7 +43,7 @@ Com diversos problemas parecidos com o meu e muitos resolvidos utilizando ****if
 <details>
   <summary>Imagem</summary> 
   
-!(imagens/problema.png)
+![](imagens/problema.png)
 
 </details>
 
