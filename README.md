@@ -43,7 +43,7 @@ Com diversos problemas parecidos com o meu e muitos resolvidos utilizando ****if
 <details>
   <summary>Imagem</summary> 
   
-![](imagens/problema.png)
+![problema](https://github.com/git-comrade/desafio-felipao/assets/87396745/1e70989f-f548-497c-873e-2d2bb76074f9)
 
 </details>
 
@@ -51,7 +51,7 @@ A resolução utilizava ****switch-case****
 <details>
   <summary>Imagem</summary> 
   
-!(imagens/solucao.png)
+![solucao](https://github.com/git-comrade/desafio-felipao/assets/87396745/3e819ec7-3f8b-4b40-882d-2367bbb632b4)
 
 </details>
 
@@ -59,7 +59,7 @@ Como eu não me lembrava muito bem como o código funcionava, fiz como o profess
 <details>
   <summary>Imagem</summary> 
   
-!(imagens/chatgpt1.png)
+![chatgpt1](https://github.com/git-comrade/desafio-felipao/assets/87396745/f11efc5a-8ec9-4c88-a84d-04b6d7b2f4d6)
 
 </details>
 
@@ -67,7 +67,7 @@ Pra minha surpresa esse foi o retorno que eu tive:
 <details>
   <summary>Imagem</summary> 
   
-!(imagens/chatgpt2.png)
+![chatgpt2](https://github.com/git-comrade/desafio-felipao/assets/87396745/c65139c6-a5fb-4774-94d6-6a92f5dd3d9e)
 
 </details>
 
