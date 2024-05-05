@@ -1,0 +1,14 @@
+{
+    "editor.fontFamily": "VictorMono Nerd Font, SemiBold",
+    "editor.experimentalInlineEdit.fontFamily": "VictorMono Nerd Font, SemiBold",
+    "editor.codeLensFontFamily": "VictorMono Nerd Font, SemiBold",
+    "editor.inlayHints.fontFamily": "FiraCode Nerd Font",
+    "debug.console.fontFamily": "FiraCode Nerd Font",
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+    "editor.inlineSuggest.fontFamily": "VictorMono Nerd Font, SemiBold",
+    "notebook.output.fontFamily": "",
+    "chat.editor.fontFamily": "VictorMono Nerd Font, SemiBold",
+    "markdown.preview.fontFamily": "FiraCode Nerd Font",
+    "scm.inputFontFamily": "FiraCode Nerd Font",
+    "files.autoSave": "afterDelay"
+}
