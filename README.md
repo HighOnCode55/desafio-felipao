@@ -71,12 +71,17 @@ Pra minha surpresa esse foi o retorno que eu tive:
 
 </details>
 
-Para encurtar a história, direi aqui que depois disso continuei tirando algumas outras dúvidas com o **chatgpt**, que achei muito útil, porém o problema é que a resposta inicial dele é que eu não poderia procurar por uma faixa de números utilizando.
+Para encurtar a história, direi aqui que depois disso continuei tirando algumas outras dúvidas com o **chatgpt**, que achei muito útil, porém o problema é que a resposta inicial dele é que eu não poderia procurar por uma faixa de números utilizando **switch-case**.
+
 Pra minha sorte, minha curiosidade não me deixou contente com essa resposta e descobri que podemos utilizar **booleans** em conjunto com **switch-case** para atingir o que eu estava tentando alcançar. 
+
 Isso faz o código buscar se é verdade que tal faixa de números que eu busco aparece no local especificado. 
+
 Eu também aproveitei pra apontar isso ao **chatgpt**, levando em conta a informação que eu tinha sobre **switch** performar melhor em C. 
+
 A resposta foi que javascript utiliza um método de otimização de códigos que pode não funcionar de maneira satisfatória, até pior do que **if-else** se não fosse buscando somente por **floats**. 
-É também ponderado pelo **chatgpt**, que geralmente não há diferença entre os dois métodos nessa linguagem, pela sua otimização e pelas aplicações onde a linguagem é geralmente utilizada.
+
+É também ponderado pelo **chatgpt**, que geralmente não há grande diferença entre os dois métodos nessa linguagem, levando em conta sua otimização e aplicações onde a linguagem é geralmente utilizada.
 
 ## Finalização
 
